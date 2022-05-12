@@ -9,3 +9,4 @@
 
 * [Developmental Deployment](https://p3-devsoln.herokuapp.com/)
 
+#Dev works, EVERYTHING WORKS. BUT i cannot figure out why the app/init.py linked to the database it not wokring.
