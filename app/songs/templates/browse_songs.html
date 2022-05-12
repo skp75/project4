@@ -11,7 +11,7 @@
         <a href="{{ url_for("songs.songs_upload") }}" class="btn col-3 mb-5 btn-info" role="button">Upload transactions</a>
 
         <h2>Table of transactions</h2>
-        <h3>Upload a .csv file of a list of transactions</h3>
+        <p>Upload a .csv file of a list of transactions</p>
         {{ render_table(data) }}
         {% from 'bootstrap5/pagination.html' import render_pagination %}
 
